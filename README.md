@@ -1,0 +1,2 @@
+# USTC_2022_Interdisciplinary-Subjects-Oriented-Python
+面向交叉学科的Python程序设计与跨学科实践 2022春 课程作业
